@@ -1,0 +1,4 @@
+interface:
+  display_name: "WebStart"
+  short_description: "可靠的 Windows 本地与局域网网站启动控制台"
+  default_prompt: "Use $webstart to add a robust double-click start, stop, address, and status console to this website."
